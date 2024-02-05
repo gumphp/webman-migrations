@@ -1,5 +1,4 @@
 <?php
-
 use Eloquent\Migrations\Migrations\Migration;
 
 return new class extends Migration
